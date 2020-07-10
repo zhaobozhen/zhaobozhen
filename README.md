@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Drakeet, an Android software engineer at Microsoft.
+My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronics.
 
-- 🔭 I'm currently working on [Outlook for Android](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook), and a side project called [Pure Writer](https://play.google.com/store/apps/details?id=com.drakeet.purewriter)
+- 🔭 I worked on [TCast for Android](https://play.google.com/store/apps/details?id=com.tnscreen.main), and two side projects called [Anywhere-](https://play.google.com/store/apps/details?id=com.absinthe.anywhere_) and [LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)
 - 📫 How to reach me: 
-  * Telegram: [@drakeet](https://t.me/drakeet)
-  * Email: drakeet@drakeet.com
+  * Telegram: [@Rabbitial](https://t.me/Rabbitial)
+  * Email: zhaobozhen2025@gmail.com
   
