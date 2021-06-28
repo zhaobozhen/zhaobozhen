@@ -7,3 +7,4 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
   * Telegram: [@Rabbitial](https://t.me/Rabbitial)
   * Email: zhaobozhen2025@gmail.com
   
+![](https://genshin-card.getloli.com/rand/83716568.png)
