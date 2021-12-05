@@ -8,8 +8,9 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
   * Email: zhaobozhen2025@gmail.com
   
 ![Windows 10 Pro](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat&logo=windows&logoColor=ffffff)
-![macOS Big Sur](https://img.shields.io/badge/macOS%20Big%20Sur-000000?style=flat&logo=macos&logoColor=ffffff)
+![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-c934ac?style=flat&logo=macos&logoColor=ffffff)
 ![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat&logo=android&logoColor=ffffff)
+![iPadOS 15](https://img.shields.io/badge/iPadOS%2015-ffffff?style=flat&logo=ios&logoColor=000000)
 
 ![Xiaomi Mi10 Ultra](https://img.shields.io/badge/Xiaomi%20Mi10%20Ultra-fd4900?style=flat&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi9](https://img.shields.io/badge/Xiaomi%20Mi9-fd4900?style=flat&logo=xiaomi&logoColor=ffffff)
@@ -18,4 +19,4 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 ![Xiaomi Mi2S](https://img.shields.io/badge/Xiaomi%20Mi2S-fd4900?style=flat&logo=xiaomi&logoColor=ffffff)
 ![Nokia N73](https://img.shields.io/badge/Nokia%20N73-183693?style=flat&logo=nokia&logoColor=ffffff)
 
-![](https://genshin-card.getloli.com/rand/83716568.png)
+![Genshin Dashboard](https://genshin-card.getloli.com/rand/83716568.png)
