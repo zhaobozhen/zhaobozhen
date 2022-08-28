@@ -7,7 +7,7 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
   * Telegram: [@Rabbitial](https://t.me/Rabbitial)
   * Email: zhaobozhen2025@gmail.com
   
-![Windows 10 Pro](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat&logo=windows&logoColor=ffffff)
+![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat&logo=windows&logoColor=ffffff)
 ![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-c934ac?style=flat&logo=macos&logoColor=ffffff)
 ![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat&logo=android&logoColor=ffffff)
 ![iPadOS 15](https://img.shields.io/badge/iPadOS%2015-ffffff?style=flat&logo=ios&logoColor=000000)
