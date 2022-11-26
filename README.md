@@ -8,7 +8,7 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
   * Email: zhaobozhen2025@gmail.com
   
 ![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat&logo=windows&logoColor=ffffff)
-![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-c934ac?style=flat&logo=macos&logoColor=ffffff)
+![macOS Monterey](https://img.shields.io/badge/macOS%20Ventura-F8C54A?style=flat&logo=macos&logoColor=000000)
 ![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat&logo=android&logoColor=ffffff)
 ![iOS 16](https://img.shields.io/badge/iOS%2016-ffffff?style=flat&logo=ios&logoColor=000000)
 
