@@ -25,4 +25,4 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 ![Apple Watch](https://img.shields.io/badge/Watch%20Series%207-B13A44?style=flat&logo=apple&logoColor=ffffff)
 ![PS5](https://img.shields.io/badge/PlayStation%205-FFFFFF?style=flat&logo=playstation&logoColor=000000)
 
-![Genshin Dashboard](https://api.absinthe.life/detail/rand/83716568.png)
+![Genshin Dashboard](http://api.absinthe.life/detail/rand/83716568.png)
