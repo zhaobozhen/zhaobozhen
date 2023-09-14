@@ -8,9 +8,10 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
   * Email: zhaobozhen2025@gmail.com
   
 ![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat&logo=windows&logoColor=ffffff)
-![macOS Monterey](https://img.shields.io/badge/macOS%20Ventura-F8C54A?style=flat&logo=apple&logoColor=000000)
+![macOS Sonoma](https://img.shields.io/badge/macOS%20Sonoma-005F25?style=flat&logo=apple&logoColor=ffffff)
 ![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat&logo=android&logoColor=ffffff)
-![iOS 16](https://img.shields.io/badge/iOS%2016-ffffff?style=flat&logo=apple&logoColor=000000)
+![iOS 17](https://img.shields.io/badge/iOS%2017-ffffff?style=flat&logo=apple&logoColor=000000)
+![watchOS 10](https://img.shields.io/badge/watchOS%2010-ffffff?style=flat&logo=apple&logoColor=000000)
 
 ![iPhone 14 Pro](https://img.shields.io/badge/iPhone%2014%20Pro-655D6F?style=flat&logo=apple&logoColor=ffffff)
 ![Xiaomi Mi10 Ultra](https://img.shields.io/badge/Xiaomi%20Mi10%20Ultra✘-fd4900?style=flat&logo=xiaomi&logoColor=ffffff)
@@ -20,9 +21,10 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 ![Xiaomi Mi2S](https://img.shields.io/badge/Xiaomi%20Mi2S😔-fd4900?style=flat&logo=xiaomi&logoColor=ffffff)
 ![Nokia N73](https://img.shields.io/badge/Nokia%20N73✘-183693?style=flat&logo=nokia&logoColor=ffffff)
 
-![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro%202020%2013'%20Apple%20M1-484851?style=flat&logo=apple&logoColor=ffffff)
+![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro%202020%2013''%20Apple%20M1-484851?style=flat&logo=apple&logoColor=ffffff)
 ![iPad mini6](https://img.shields.io/badge/iPad%20mini6-BFBED3?style=flat&logo=apple&logoColor=ffffff)
-![Apple Watch](https://img.shields.io/badge/Watch%20Series%207-B13A44?style=flat&logo=apple&logoColor=ffffff)
+![Apple Watch](https://img.shields.io/badge/Watch%20Series%2079-000000?style=flat&logo=apple&logoColor=ffffff)
 ![PS5](https://img.shields.io/badge/PlayStation%205-FFFFFF?style=flat&logo=playstation&logoColor=000000)
+![NS](https://img.shields.io/badge/Nintendo%20Switch-E00009?style=flat&logo=nintendoswitch&logoColor=ffffff)
 
-![Genshin Dashboard](http://genshin-card.himiku.com/detail/rand/83716568.png)
+![Genshin Dashboard](https://genshin-card.himiku.com/rand/83716568.png)
