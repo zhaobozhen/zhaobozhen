@@ -9,11 +9,12 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
   
 ![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat&logo=windows&logoColor=ffffff)
 ![macOS Sonoma](https://img.shields.io/badge/macOS%20Sonoma-005F25?style=flat&logo=apple&logoColor=ffffff)
-![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat&logo=android&logoColor=ffffff)
+![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat&logo=android&logoColor=ffffff)
 ![iOS 17](https://img.shields.io/badge/iOS%2017-ffffff?style=flat&logo=apple&logoColor=000000)
 ![watchOS 10](https://img.shields.io/badge/watchOS%2010-ffffff?style=flat&logo=apple&logoColor=000000)
 
 ![iPhone 14 Pro](https://img.shields.io/badge/iPhone%2014%20Pro-655D6F?style=flat&logo=apple&logoColor=ffffff)
+![Pixel 6a](https://img.shields.io/badge/Pixel%206a-000000?style=flat&logo=google&logoColor=ffffff)
 ![Xiaomi Mi10 Ultra](https://img.shields.io/badge/Xiaomi%20Mi10%20Ultra✘-fd4900?style=flat&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi9](https://img.shields.io/badge/Xiaomi%20Mi9✘-fd4900?style=flat&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi6](https://img.shields.io/badge/Xiaomi%20Mi6-fd4900?style=flat&logo=xiaomi&logoColor=ffffff)
