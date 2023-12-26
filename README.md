@@ -22,6 +22,7 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 ![Xiaomi Mi2S](https://img.shields.io/badge/Xiaomi%20Mi2S😔-fd4900?style=flat&logo=xiaomi&logoColor=ffffff)
 ![Nokia N73](https://img.shields.io/badge/Nokia%20N73✘-183693?style=flat&logo=nokia&logoColor=ffffff)
 
+![Mac mini](https://img.shields.io/badge/Mac%20mini%202023%20Apple%20M2%20Pro-484851?style=flat&logo=apple&logoColor=ffffff)
 ![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro%202020%2013''%20Apple%20M1-484851?style=flat&logo=apple&logoColor=ffffff)
 ![iPad mini6](https://img.shields.io/badge/iPad%20mini6-BFBED3?style=flat&logo=apple&logoColor=ffffff)
 ![Apple Watch](https://img.shields.io/badge/Watch%20Series%209-000000?style=flat&logo=apple&logoColor=ffffff)
