@@ -26,7 +26,14 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 ![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro%202020%2013''%20Apple%20M1-484851?style=flat&logo=apple&logoColor=ffffff)
 ![iPad mini6](https://img.shields.io/badge/iPad%20mini6-BFBED3?style=flat&logo=apple&logoColor=ffffff)
 ![Apple Watch](https://img.shields.io/badge/Watch%20Series%209-000000?style=flat&logo=apple&logoColor=ffffff)
+![Apple TV](https://img.shields.io/badge/TV%204K-484851?style=flat&logo=apple&logoColor=ffffff)
 ![PS5](https://img.shields.io/badge/PlayStation%205-FFFFFF?style=flat&logo=playstation&logoColor=000000)
 ![NS](https://img.shields.io/badge/Nintendo%20Switch-E00009?style=flat&logo=nintendoswitch&logoColor=ffffff)
 
 ![Genshin Dashboard](https://genshin-card.himiku.com/rand/83716568.png)
+
+*Odin* is my cat
+
+<img src="https://github.com/zhaobozhen/zhaobozhen/assets/25247117/b5a518e9-19b1-4ac8-a265-35c903b68ad0" width="480" height="480">
+
+
