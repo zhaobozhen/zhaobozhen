@@ -42,6 +42,3 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 *Odin* is my cat
 
 <img src="https://github.com/zhaobozhen/zhaobozhen/assets/25247117/b5a518e9-19b1-4ac8-a265-35c903b68ad0" width="50%">
-
-
-![Capitano2](https://github.com/user-attachments/assets/eab4c811-c10e-4d21-865b-8054e7e1ce34)
