@@ -24,6 +24,8 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 ## Magic Number
 
 ![Visited By](https://count.getloli.com/get/@zhaobozhen?theme=nixietube-1)
+
+## Devices
   
 ![Windows](https://img.shields.io/badge/Windows%2011-00adef?style=flat&logo=pcgamingwiki&logoColor=ffffff)
 ![macOS](https://img.shields.io/badge/macOS%20Sequoia-005F25?style=flat&logo=apple&logoColor=ffffff)
@@ -54,9 +56,13 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 ![PS5](https://img.shields.io/badge/PlayStation%205-FFFFFF?style=flat&logo=playstation&logoColor=000000)
 ![NS](https://img.shields.io/badge/Nintendo%20Switch%20OLED-E00009?style=flat&logo=nintendoswitch&logoColor=ffffff)
 
+## Cards
+
 ![Genshin Dashboard](https://hoyocard.qhy04.com/gs/rand/83716568.png)
 ![HSR Dashboard](https://hoyocard.qhy04.com/sr/rand/83716568.png)
 ![ZZZ Dashboard](https://hoyocard.qhy04.com/zzz/rand/83716568.png)
+
+## Odin
 
 *Odin* is my cat
 
