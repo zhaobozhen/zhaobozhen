@@ -5,14 +5,31 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 - 🔭 I worked on [TCast for Android](https://play.google.com/store/apps/details?id=com.tnscreen.main), and two side projects called [Anywhere-](https://play.google.com/store/apps/details?id=com.absinthe.anywhere_) and [LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)
 - 📫 How to reach me: 
   * Telegram: [@abs1nthe](https://t.me/abs1nthe)
-  * Email: zhaobozhen2025@gmail.com
+  * Email: me@absinthe.life
+ 
+<a href="#stats" align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=zhaobozhen&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=zhaobozhen&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=zhaobozhen&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
+  </picture>
+</a>
+
+## Magic Number
+
+![Visited By](https://count.getloli.com/get/@zhaobozhen?theme=nixietube-1)
   
-![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat&logo=pcgamingwiki&logoColor=ffffff)
-![macOS Sequoia](https://img.shields.io/badge/macOS%20Sequoia-005F25?style=flat&logo=apple&logoColor=ffffff)
-![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat&logo=android&logoColor=ffffff)
-![Magisk](https://img.shields.io/badge/Magisk%2028-00AF9C?style=flat&logo=magisk&logoColor=ffffff)
-![iOS 18](https://img.shields.io/badge/iOS%2018-ffffff?style=flat&logo=apple&logoColor=000000)
-![watchOS 11](https://img.shields.io/badge/watchOS%2011-ffffff?style=flat&logo=apple&logoColor=000000)
+![Windows](https://img.shields.io/badge/Windows%2011-00adef?style=flat&logo=pcgamingwiki&logoColor=ffffff)
+![macOS](https://img.shields.io/badge/macOS%20Sequoia-005F25?style=flat&logo=apple&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android%2016-3ddc84?style=flat&logo=android&logoColor=ffffff)
+![iOS](https://img.shields.io/badge/iOS%2026-ffffff?style=flat&logo=apple&logoColor=000000)
+![watchOS](https://img.shields.io/badge/watchOS%2011-ffffff?style=flat&logo=apple&logoColor=000000)
 
 ![iPhone 14 Pro](https://img.shields.io/badge/iPhone%2014%20Pro-655D6F?style=flat&logo=apple&logoColor=ffffff)
 ![Pixel 6a](https://img.shields.io/badge/Pixel%206a-000000?style=flat&logo=google&logoColor=ffffff)
@@ -37,7 +54,9 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 ![PS5](https://img.shields.io/badge/PlayStation%205-FFFFFF?style=flat&logo=playstation&logoColor=000000)
 ![NS](https://img.shields.io/badge/Nintendo%20Switch%20OLED-E00009?style=flat&logo=nintendoswitch&logoColor=ffffff)
 
-![Genshin Dashboard](https://genshin-card.himiku.com/rand/83716568.png)
+![Genshin Dashboard](https://hoyocard.qhy04.com/gs/rand/83716568.png)
+![HSR Dashboard](https://hoyocard.qhy04.com/sr/rand/83716568.png)
+![ZZZ Dashboard](https://hoyocard.qhy04.com/zzz/rand/83716568.png)
 
 *Odin* is my cat
 
