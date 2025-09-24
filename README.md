@@ -28,12 +28,12 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 ## Devices
   
 ![Windows](https://img.shields.io/badge/Windows%2011-00adef?style=flat&logo=pcgamingwiki&logoColor=ffffff)
-![macOS](https://img.shields.io/badge/macOS%20Sequoia-005F25?style=flat&logo=apple&logoColor=ffffff)
+![macOS](https://img.shields.io/badge/macOS%20Tahoe-005F25?style=flat&logo=apple&logoColor=ffffff)
 ![Android](https://img.shields.io/badge/Android%2016-3ddc84?style=flat&logo=android&logoColor=ffffff)
 ![iOS](https://img.shields.io/badge/iOS%2026-ffffff?style=flat&logo=apple&logoColor=000000)
-![watchOS](https://img.shields.io/badge/watchOS%2011-ffffff?style=flat&logo=apple&logoColor=000000)
+![watchOS](https://img.shields.io/badge/watchOS%2026-ffffff?style=flat&logo=apple&logoColor=000000)
 
-![iPhone 14 Pro](https://img.shields.io/badge/iPhone%2014%20Pro-655D6F?style=flat&logo=apple&logoColor=ffffff)
+![iPhone 17 Pro](https://img.shields.io/badge/iPhone%2017%20Pro-ffffff?style=flat&logo=apple&logoColor=000000)
 ![Pixel 6a](https://img.shields.io/badge/Pixel%206a-000000?style=flat&logo=google&logoColor=ffffff)
 ![Xiaomi Mi10 Ultra](https://img.shields.io/badge/Xiaomi%20Mi10%20Ultra✘-fd4900?style=flat&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi9](https://img.shields.io/badge/Xiaomi%20Mi9✘-fd4900?style=flat&logo=xiaomi&logoColor=ffffff)
@@ -52,14 +52,14 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 ![Apple TV](https://img.shields.io/badge/TV%204K-484851?style=flat&logo=apple&logoColor=ffffff)
 ![HomePod mini Blue](https://img.shields.io/badge/HomePod%20mini-213e50?style=flat&logo=apple&logoColor=ffffff)
 ![HomePod mini Orange](https://img.shields.io/badge/HomePod%20mini-ffaa76?style=flat&logo=apple&logoColor=000000)
-![AirPods Pro 2](https://img.shields.io/badge/AirPods%20Pro%202nd-ffffff?style=flat&logo=apple&logoColor=000000)
+![AirPods Pro 3](https://img.shields.io/badge/AirPods%20Pro%203rd-ffffff?style=flat&logo=apple&logoColor=000000)
+![AirPods Max](https://img.shields.io/badge/AirPods%20Max-000000?style=flat&logo=apple&logoColor=ffffff)
 ![PS5](https://img.shields.io/badge/PlayStation%205-FFFFFF?style=flat&logo=playstation&logoColor=000000)
 ![NS](https://img.shields.io/badge/Nintendo%20Switch%20OLED-E00009?style=flat&logo=nintendoswitch&logoColor=ffffff)
 
 ## Cards
 
 ![Genshin Dashboard](https://hoyocard.qhy04.com/gs/rand/83716568.png)
-![HSR Dashboard](https://hoyocard.qhy04.com/sr/rand/83716568.png)
 ![ZZZ Dashboard](https://hoyocard.qhy04.com/zzz/rand/83716568.png)
 
 ## Odin
