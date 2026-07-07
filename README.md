@@ -59,7 +59,7 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 
 ## Cards
 
-![Genshin Dashboard](https://ab-genshin-card.vercel.app/rand/83716568.png)
+![Genshin Dashboard](https://gi.absinthe.life/rand/83716568.png)
 ![ZZZ Dashboard](https://hoyocard.qhy04.com/zzz/rand/83716568.png)
 
 ## Odin
