@@ -29,7 +29,7 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
   
 ![Windows](https://img.shields.io/badge/Windows%2011-00adef?style=flat&logo=pcgamingwiki&logoColor=ffffff)
 ![macOS](https://img.shields.io/badge/macOS%20Tahoe-005F25?style=flat&logo=apple&logoColor=ffffff)
-![Android](https://img.shields.io/badge/Android%2016-3ddc84?style=flat&logo=android&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android%2017-3ddc84?style=flat&logo=android&logoColor=ffffff)
 ![iOS](https://img.shields.io/badge/iOS%2026-ffffff?style=flat&logo=apple&logoColor=000000)
 ![watchOS](https://img.shields.io/badge/watchOS%2026-ffffff?style=flat&logo=apple&logoColor=000000)
 
@@ -60,7 +60,6 @@ My name is Absinthe, Bozhen Zhao, an Android software engineer at TCL Electronic
 ## Cards
 
 ![Genshin Dashboard](https://gi.absinthe.life/rand/83716568.png)
-![ZZZ Dashboard](https://hoyocard.qhy04.com/zzz/rand/83716568.png)
 
 ## Odin
 
